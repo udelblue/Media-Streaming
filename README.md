@@ -1,11 +1,19 @@
-# Media-Streaming
+# Media-Streaming  
+
 Streaming video or audio to html
 
-##Install 
+### Install  
+```javascript
 npm install
-
-##Run 
-npm start
-
-##Run Dev (nodemon must be installed)
+```
+### Run Dev (nodemon must be installed)
+```javascript
 npm dev 
+```
+
+### Run 
+```javascript
+npm start
+```
+
+Navigate to localhost:8080
